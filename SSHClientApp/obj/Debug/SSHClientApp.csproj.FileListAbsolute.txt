@@ -1,0 +1,9 @@
+C:\Users\TCSOCELIK\source\repos\SSHClientApp\SSHClientApp\bin\Debug\SSHClientApp.exe.config
+C:\Users\TCSOCELIK\source\repos\SSHClientApp\SSHClientApp\bin\Debug\SSHClientApp.exe
+C:\Users\TCSOCELIK\source\repos\SSHClientApp\SSHClientApp\bin\Debug\SSHClientApp.pdb
+C:\Users\TCSOCELIK\source\repos\SSHClientApp\SSHClientApp\bin\Debug\Renci.SshNet.dll
+C:\Users\TCSOCELIK\source\repos\SSHClientApp\SSHClientApp\bin\Debug\Renci.SshNet.xml
+C:\Users\TCSOCELIK\source\repos\SSHClientApp\SSHClientApp\obj\Debug\SSHClientApp.csproj.CoreCompileInputs.cache
+C:\Users\TCSOCELIK\source\repos\SSHClientApp\SSHClientApp\obj\Debug\SSHClientApp.csproj.CopyComplete
+C:\Users\TCSOCELIK\source\repos\SSHClientApp\SSHClientApp\obj\Debug\SSHClientApp.exe
+C:\Users\TCSOCELIK\source\repos\SSHClientApp\SSHClientApp\obj\Debug\SSHClientApp.pdb
